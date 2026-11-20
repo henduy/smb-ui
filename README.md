@@ -99,7 +99,8 @@ of `smb-ui.py` (default: `/etc/samba/smb.conf`).
   line, an environment variable, disk, or logs.
 - Use only on machines where you are authorized to administer Samba.
 
-- AT THIS MOMENT ONLY IN GERMAN
+##  AT THIS MOMENT ONLY IN GERMAN
+# AI test project
 
 ## License
 
