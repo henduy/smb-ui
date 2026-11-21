@@ -39,7 +39,7 @@ The interface is currently in German.
 ## Installation
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/henduy/smb-ui.git
 cd smb-ui
 
 python3 -m venv .venv
