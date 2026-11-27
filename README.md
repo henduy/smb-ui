@@ -39,7 +39,7 @@ The interface is currently in German.
 ## Installation
 
 ```bash
-git clone https://github.com/henduy/smb-ui.git
+git clone <your-repository-url>
 cd smb-ui
 
 python3 -m venv .venv
@@ -98,9 +98,6 @@ of `smb-ui.py` (default: `/etc/samba/smb.conf`).
   `sudo` through standard input only. It is never written to the command
   line, an environment variable, disk, or logs.
 - Use only on machines where you are authorized to administer Samba.
-
-##  AT THIS MOMENT ONLY IN GERMAN
-# AI test project
 
 ## License
 
